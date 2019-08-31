@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 import numpy as np
-import pytdtStats
+import pytdt.pytdtStats as pytdtStats
 def tdt(group=None,df=None,tot=False,prog=False):
 	"""
 	tdt returns an object containing 

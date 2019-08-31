@@ -1,1 +1,1 @@
-from pytdt import *
+from pytdt.pytdt import *
